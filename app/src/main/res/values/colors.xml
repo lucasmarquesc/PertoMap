@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cores principais -->
+    <color name="primary">#2E7D32</color>          <!-- Verde -->
+    <color name="primaryDark">#1B5E20</color>
+    <color name="primaryLight">#A5D6A7</color>
+    <color name="red">#A5D6A7</color>
+
+    <!-- Cor secundária -->
+    <color name="secondary">#FFC107</color>        <!-- Amarelo -->
+    <color name="secondaryDark">#FFA000</color>
+    <color name="yellow">#F9F148</color>
+
+    <!-- Fundo -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FA4B5D</color>
+
+    <!-- Texto -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#616161</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+
+    <!-- Estados -->
+    <color name="error">#D32F2F</color>
+    <color name="success">#388E3C</color>
+
+</resources>

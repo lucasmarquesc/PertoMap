@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PertoMap" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <!-- Cores -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorSecondary">@color/secondary</item>
+
+        <!-- Fundo -->
+        <item name="android:windowBackground">@color/background</item>
+
+        <!-- Texto -->
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/primaryDark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>-->
+    </style>
+
+    <style name="Theme.PertoMap" parent="Base.Theme.PertoMap" />
+</resources>
